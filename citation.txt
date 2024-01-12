@@ -1,0 +1,9 @@
+@article{REPO075,
+    author = "Ravuri, Suman and Lenc, Karel and Willson, Matthew and Kangin, Dmitry and Lam, Remi and Mirowski, Piotr and Fitzsimons, Megan and Athanassiadou, Maria and Kasheem, Shleem and Madge, Sam and Prudden, Rachel and Mandhane, Amol and Clark, Aidan and Brock, Andrew and Simonoyan, Karen and Hadsell, Raia and Robinson, Niall and Clancy, Ellen and Arribas, Alberto and Shakir, Mohamed",
+    journal = "Nature",
+    pages = "672--677",
+    publisher = "Nature Publishing Group",
+    title = "{Skilful Precipitation Nowcasting Using Deep Generative Models of Radar}",
+    volume = "597",
+    year = "2021"
+}
